@@ -1,0 +1,36 @@
+# DaoThoa
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mô tả bản thân và các sự kiện chính trong cuộc sống</title>
+</head>
+<body>
+<h1> 1. Giới thiệu bản thân</h1> <br>
+<hr>
+<p> Em tên là Đào Thị Thoa<br>
+<p>Sinh ngày 30/06/1997<br>
+<p> Quê ở Thành phố Hưng Yên, tỉnh Hưng Yên<br>
+<p> Hiện đang học tại lớp K18HTTTC, Khoa Hệ thống thông tin quản lý, Trường Học Viện Ngân Hàng<br>
+<h2> 2. Các sự kiện chính trong cuộc sống</h2> <br> <hr>
+<p>2.1. Giai đoạn 2003-2008:
+<br>
+<img src="./images/THQC.jpg" >
+<inframe width="100px"  height="auto" > <br>
+<a href="Giai đoạn 2003-2008.html"> Giai đoạn 2003-2008: Trường Tiểu học Quảng Châu </a>
+<br>
+<p><i>2.2. Giai đoạn 2008-2012:</i> Đây là ảnh các thầy cô trường cấp 2 của em
+<br>
+<img src="./images/THCSQC.jpg" >
+<inframe width="800px" > <br>
+<a href="Giai đoạn 2008-2012.html"> Giai đoạn 2008-2012: Trường Trung học cơ sở Quảng Châu </a>
+
+<p>2.3. Giai đoạn 2012-2015: Đây chính là hình ảnh ngôi trường cấp 3 thân thương<br>
+<img src="./images/THPTHY.jpg" >
+<inframe width="800px" height="auto"><br>
+<a href="Giai đoạn 2012-2015.html"> Giai đoạn 2012-2015: Trường Trung học phổ thông Hưng Yên </a>
+<p><i>2.4. Giai đoạn 2015-nay:</i> Đây là hình ảnh Ngôi trường Học viện Ngân Hàng <br>
+<img src="./images/HVNH.jpg" >
+<inframe width="800px" height="auto"> <br>
+<a href="Giai đoạn 2015-nay.html"> Giai đoạn 2012-nay: Trường Học viện Ngân Hàng </a>
+</body>
+</html>
